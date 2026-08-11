@@ -1,4 +1,3 @@
-# A11 - K-Means Clustering, built from our own A4 (distance) and A8 (mean) functions
 
 import pandas as pd
 import random

@@ -9,7 +9,7 @@ def vector_length(vector):
     for value in vector:
         total = total + value ** 2
     length = total ** 0.5
-    return length
+    return length   
 if __name__ == "__main__":
     v1 = [3, 4]
     v2 = [1, 2]
